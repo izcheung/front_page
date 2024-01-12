@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @izcheung
+- 👋 Hi, I’m Irene Cheung
 - 😄 Pronouns: she/her
 - 👀 I’m interested in learning React and other front-end frameworks
 - 🌱 I’m currently learning Java, C, and SQL
